@@ -1,0 +1,4 @@
+- name: Firebase CLI Action
+  # You may pin to the exact commit or the version.
+  # uses: sezabass/firebase-cli-action@b48ba0fcdde018fc334b21eff197a97ef01ec342
+  uses: sezabass/firebase-cli-action@v0.1
